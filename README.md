@@ -6,3 +6,5 @@
 -Password Recovery Features
 
 -Welcome Emails features are there.
+
+-Tech Stack - ( React.js, Zustand, Axios, Vite , Node.js, Express.js, MongoDB, JWT, Mailtrap API)
